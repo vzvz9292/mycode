@@ -2,6 +2,8 @@
 
 One Paragraph of your project description goes here. Describe what you're trying to do. What is the purpose of putting up this repo?
 
+I want to learn how to version control projects with GIT 
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -48,7 +50,7 @@ Here you could make notes about how others might contribute to your code. For ri
 
 ## Authors
 
-* **Your Name** - *Initial work* - [YourWebsite](https://example.com/)
+* **vzvz9292** - *Initial work* - [YourWebsite](https://example.com/)
 
 ## License
 
